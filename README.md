@@ -2,27 +2,24 @@
 
 ## Overview of the school district analysis
 
-This project consists of two technical analysis deliverables and a written report.
+  This project consists of two technical analysis deliverables and a written report.
 
 ### The purpose
-This work aims to help Maria replace the 9th-grade math and reading scores in Thomas High School and repeat the school district analysis to the board.
+  This work aims to help Maria replace the 9th-grade math and reading scores in Thomas High School and repeat the school district analysis to the board.
 
 ## Results
 
 •	How is the district summary affected?
   
   Because the eligible scores were less from Thomas High School, the percentages were all slightly affected but not many differences (see the image below). 
-
 ![district summary](https://github.com/summerginger/School_District_Analysis/blob/main/district%20summary.png) 
 •	How is the school summary affected?
 
   The only change in the school summary was that the percentage of the math, reading and overall math & reading of Thomas High School had been dramatically increased.
  
  ![summary compare](https://github.com/summerginger/School_District_Analysis/blob/main/summary%20compare.png)
-  
 •	How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-    
-   Once replacing the ninth grader's scores in Thomas High School, only the math and reading scores from the school have tiny increased, so the overall top-five school 
+    Once replacing the ninth grader's scores in Thomas High School, only the math and reading scores from the school have tiny increased, so the overall top-five school 
    and bottom-five school positions remain the same. 
    The project successfully has no effect on the other graders in the same school and the other schools.
 
