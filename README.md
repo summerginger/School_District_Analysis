@@ -15,6 +15,7 @@ This work aims to help Maria replace the 9th-grade math and reading scores in Th
 
 ![district summary](https://github.com/summerginger/School_District_Analysis/blob/main/district%20summary.png) 
 •	How is the school summary affected?
+
   The only change in the school summary was that the percentage of the math, reading and overall math & reading of Thomas High School had been dramatically increased.
  
  ![summary compare](https://github.com/summerginger/School_District_Analysis/blob/main/summary%20compare.png)
