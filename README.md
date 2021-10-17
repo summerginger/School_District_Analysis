@@ -5,7 +5,7 @@
   This project consists of two technical analysis deliverables and a written report.
 
 ### The purpose
-  This work aims to help Maria replace the 9th-grade math and reading scores in Thomas High School and repeat the school district analysis to the board.
+  This work aims to replace the 9th-grade math and reading scores in Thomas High School and repeat the school district analysis to the board.
 
 ## Results
 
